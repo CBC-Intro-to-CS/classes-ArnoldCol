@@ -16,7 +16,7 @@ class User:
     
 user1 = User("Colby", "Ryan", "Arnold", 14)
 user2 = User("Jamie", "Elizabeth", "Arnold", 42)
-user3 = User("Kevin", "Scott", "Arnold", 49)
+user3 = User("Gavin", "Scott", "Arnold", 16)
 
 user1.describe_user()
 user1.greet_user()
